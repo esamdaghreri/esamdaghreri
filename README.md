@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esamdaghreri/esamdaghreri/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esamdaghreri/esamdaghreri/output/github-snake.svg" />
+  <img alt="Esam's GitHub contribution snake" src="https://raw.githubusercontent.com/esamdaghreri/esamdaghreri/output/github-snake.svg" />
+</picture>
+
 # Hi, I'm Esam 👋
 
 ### Head of Engineering @ [Autobia](https://github.com/autobia) · Lead of [Qasima Plus](https://qasimaplus.com)
