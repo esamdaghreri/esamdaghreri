@@ -4,7 +4,7 @@
   <img alt="Esam's GitHub contribution snake" src="https://raw.githubusercontent.com/esamdaghreri/esamdaghreri/output/github-snake.svg" />
 </picture>
 
-# Hi, I'm Esam 👋
+# Hi, I'm Esam 👋 
 
 ### Head of Engineering @ [Autobia](https://github.com/autobia) · Lead of [Qasima Plus](https://qasimaplus.com)
 
@@ -12,7 +12,6 @@ I build the engineering behind **Saudi Arabia's fintech & commerce infrastructur
 
 - 🏗️ I lead engineering at **Autobia** — a B2B auto-parts marketplace with on-demand procurement, warehouse, logistics, and inventory financing.
 - 💳 I lead **[Qasima Plus](https://qasimaplus.com)** — a merchant platform unifying digital vouchers and BNPL (Tamara, Tabby, Emkan, MIS Pay, Madfu, Neo) behind one integration.
-- 🧾 I live in **ZATCA e-invoicing, BNPL, and POS** — compliant Saudi fintech built for the regulatory reality from day one, not bolted on after.
 - 🤖 I'm building an **AI-native engineering practice** — domain knowledge, docs, and workflows as living systems that engineers and AI agents share.
 - 💬 Ask me about scaling commerce systems in the Saudi market, or running an engineering team with AI in the loop.
 
